@@ -36,7 +36,10 @@
             this.label2 = new System.Windows.Forms.Label();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
+<<<<<<< HEAD
             this.label1 = new System.Windows.Forms.Label();
+=======
+>>>>>>> ecc743a5912d8889552b0d3609cd4363be4d2644
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -46,10 +49,16 @@
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox1.Image = global::Library_form.Properties.Resources.undraw_road_to_knowledge_m8s01;
+<<<<<<< HEAD
             this.pictureBox1.Location = new System.Drawing.Point(173, 52);
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(239, 281);
+=======
+            this.pictureBox1.Location = new System.Drawing.Point(231, 64);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(319, 346);
+>>>>>>> ecc743a5912d8889552b0d3609cd4363be4d2644
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
@@ -63,19 +72,31 @@
             this.panel1.Controls.Add(this.label2);
             this.panel1.Controls.Add(this.textBox2);
             this.panel1.Controls.Add(this.button1);
+<<<<<<< HEAD
             this.panel1.Location = new System.Drawing.Point(407, 52);
             this.panel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(364, 281);
+=======
+            this.panel1.Location = new System.Drawing.Point(543, 64);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(486, 346);
+>>>>>>> ecc743a5912d8889552b0d3609cd4363be4d2644
             this.panel1.TabIndex = 1;
             // 
             // pictureBox2
             // 
             this.pictureBox2.Image = global::Library_form.Properties.Resources.icons8_book_100;
+<<<<<<< HEAD
             this.pictureBox2.Location = new System.Drawing.Point(136, 14);
             this.pictureBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(75, 41);
+=======
+            this.pictureBox2.Location = new System.Drawing.Point(182, 17);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(100, 50);
+>>>>>>> ecc743a5912d8889552b0d3609cd4363be4d2644
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox2.TabIndex = 7;
             this.pictureBox2.TabStop = false;
@@ -84,48 +105,75 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Courier New", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
             this.label3.Location = new System.Drawing.Point(10, 80);
             this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(64, 25);
+=======
+            this.label3.Location = new System.Drawing.Point(13, 98);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(82, 31);
+>>>>>>> ecc743a5912d8889552b0d3609cd4363be4d2644
             this.label3.TabIndex = 6;
             this.label3.Text = "Name";
             // 
             // textBox3
             // 
             this.textBox3.Font = new System.Drawing.Font("Courier New", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
             this.textBox3.Location = new System.Drawing.Point(171, 149);
             this.textBox3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.textBox3.Multiline = true;
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(182, 35);
+=======
+            this.textBox3.Location = new System.Drawing.Point(228, 183);
+            this.textBox3.Multiline = true;
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(241, 42);
+>>>>>>> ecc743a5912d8889552b0d3609cd4363be4d2644
             this.textBox3.TabIndex = 5;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Courier New", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
             this.label2.Location = new System.Drawing.Point(10, 149);
             this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(38, 25);
+=======
+            this.label2.Location = new System.Drawing.Point(13, 183);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(48, 31);
+>>>>>>> ecc743a5912d8889552b0d3609cd4363be4d2644
             this.label2.TabIndex = 4;
             this.label2.Text = "ID";
             // 
             // textBox2
             // 
             this.textBox2.Font = new System.Drawing.Font("Courier New", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
             this.textBox2.Location = new System.Drawing.Point(171, 80);
             this.textBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.textBox2.Multiline = true;
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(182, 35);
+=======
+            this.textBox2.Location = new System.Drawing.Point(228, 98);
+            this.textBox2.Multiline = true;
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(241, 42);
+>>>>>>> ecc743a5912d8889552b0d3609cd4363be4d2644
             this.textBox2.TabIndex = 3;
             // 
             // button1
             // 
             this.button1.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.button1.Font = new System.Drawing.Font("Courier New", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
             this.button1.Location = new System.Drawing.Point(100, 223);
             this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button1.Name = "button1";
@@ -156,6 +204,24 @@
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.pictureBox1);
             this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+=======
+            this.button1.Location = new System.Drawing.Point(133, 275);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(181, 44);
+            this.button1.TabIndex = 0;
+            this.button1.Text = "Search";
+            this.button1.UseVisualStyleBackColor = false;
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::Library_form.Properties.Resources.ready_back_school;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(1024, 480);
+            this.Controls.Add(this.panel1);
+            this.Controls.Add(this.pictureBox1);
+>>>>>>> ecc743a5912d8889552b0d3609cd4363be4d2644
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -164,7 +230,10 @@
             this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.ResumeLayout(false);
+<<<<<<< HEAD
             this.PerformLayout();
+=======
+>>>>>>> ecc743a5912d8889552b0d3609cd4363be4d2644
 
         }
 
@@ -178,7 +247,10 @@
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.PictureBox pictureBox2;
+<<<<<<< HEAD
         private System.Windows.Forms.Label label1;
+=======
+>>>>>>> ecc743a5912d8889552b0d3609cd4363be4d2644
     }
 }
 
