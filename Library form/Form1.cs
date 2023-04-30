@@ -42,6 +42,7 @@ namespace Library_form
             string labe = "name: " + name + "\nprice: " + price + "\navailable: " + available;
 
             label1.Text = labe;
+            //
         }
     }
 }
